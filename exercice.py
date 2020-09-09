@@ -4,7 +4,7 @@ def capitaliser_pays(nom):
     print(nom.lower())
     print(nom.capitalize())
     a = print(nom.find('and'))
-    
+        print(nom.lower())
 
 
 
