@@ -1,11 +1,12 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 def capitaliser_pays(nom):
-    
+    print(.lower())
 
 
 
-    
+
+
     return nom
 
 
