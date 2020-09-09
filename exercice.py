@@ -3,7 +3,7 @@
 def capitaliser_pays(nom):
     print(nom.lower())
     print(nom.capitalize())
-print(chaine.find('World'))
+    print(chaine.find(''))
 
 
 
