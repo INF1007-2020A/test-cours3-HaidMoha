@@ -3,8 +3,8 @@
 def capitaliser_pays(nom):
     print(nom.lower())
     print(nom.capitalize())
-    print(nom.find('and'))
-    
+    a = print(nom.find('and'))
+
 
 
 
