@@ -8,6 +8,18 @@ def capitaliser_pays(nom):
     return nom
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 if __name__ == '__main__':
     pays = [
         'AfghanIstan',
