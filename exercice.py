@@ -8,7 +8,13 @@ def capitaliser_pays(nom):
     return nom
 
 
+livre_empruntables = 0
+# ne pas modifier la ligne ci-dessus
 
+livre_prêt = 7
+return livre_prêt
+livre_empruntables = livre_prêt - 2
+return livre_prêt 
 
 
 
