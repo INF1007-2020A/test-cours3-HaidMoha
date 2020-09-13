@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 def capitaliser_pays(nom):
-    print(nom.lower())
-    print(nom.capitalize())
-    f = print(nom.find('and'))
-        print(f.lower())
+    
     return nom
 
 
