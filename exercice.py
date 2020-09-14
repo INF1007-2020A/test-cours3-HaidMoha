@@ -1,8 +1,26 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 def capitaliser_pays(nom):
-    # TODO completer la fonction
+    
     return nom
+
+
+livre_empruntables = 0
+# ne pas modifier la ligne ci-dessus
+
+livre_prêt = 7
+return livre_prêt
+livre_empruntables = livre_prêt - 2
+return livre_prêt 
+
+
+
+
+
+
+
+
+
 
 
 if __name__ == '__main__':
